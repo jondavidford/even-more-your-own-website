@@ -5,7 +5,7 @@ description:        "Even More Your Own is Jon Ford, a musician and producer fro
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/waves.jpg'
+background:         'assets/img/waves-small.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 
@@ -24,9 +24,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   taylantatli
-
 # Social
 # if you don't have any of social below, comment the line.
 #google:
@@ -44,24 +41,12 @@ facebook:           evenmoreyourown
 #github-url:        username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
-#xing:              username
 instagram:          evenmoreyourown
 #lastfm:            jondavidford
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
 #foursquare:        username
-#steam:             username
-#dribbble:          username
 #youtube:           username
 youtube-channel:    UC4GL60rP1V3pw4LAG0PliMA
 #soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
 
 # Gems
 gems:
