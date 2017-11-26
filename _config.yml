@@ -26,9 +26,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        39450962
   #verify:
   #ad-client:
   #ad-slot:
